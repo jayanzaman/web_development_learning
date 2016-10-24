@@ -1,2 +1,2 @@
 # web_development_learning
-Uploading homeworks and classworks using various tools I learn over time.
+As I embark on the journey to learn new web development tools, I will be saving various codes I wrote for my homework and classwork here.
