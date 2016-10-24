@@ -1,2 +1,2 @@
 # web_development_learning
-Useful references
+Uploading homeworks and classworks using various tools I learn over time.
